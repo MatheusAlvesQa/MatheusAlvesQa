@@ -1,7 +1,6 @@
 ### Opa, tudo bom? Me chamo João Matheus!
 
 - 📍 Recifense
-- 👩‍💻 Desenvolvedor de softwares migrando para a área de qualidade
 - 💻 Apaixonado por qualidade e automação de testes
 - 🕵️‍♀️ Gosto muito de estudar diferentes tecnologias
 
